@@ -1,6 +1,6 @@
 # Operators
  
-  Operators are tools that allow us to use operations on variables. A variable can be created by combining two other variables via an operation or by
+Operators are tools that allow us to use operations on variables. A variable can be created by combining two other variables via an operation or by
  declaring numbers or text and combining them with operators
  You've seen operators before, the basic ones we use are
      
